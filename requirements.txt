@@ -12,3 +12,4 @@ google-generativeai
 chromadb
 sentence-transformers
 langchain_huggingface
+faiss-cpu

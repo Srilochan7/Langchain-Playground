@@ -1,0 +1,19 @@
+Sample Input 1:
+gradious hello world and knowledge is of no value unless you put it into practice and hello world again
+
+Expected Output 1:
+again and gradious hello into is it knowledge no of practice put unless value world you
+
+
+Sample Input 2:
+A lone wolf howled beneath the pale moon
+
+Expected Output 2:
+a beneath howled lone moon pale the wolf
+
+
+Sample Input 3:
+Sunlight filtered through tall green trees casting dappled shadows on the forest floor
+
+Expected Output 3:
+casting dappled filtered floor forest green on shadows sunlight tall the through trees
