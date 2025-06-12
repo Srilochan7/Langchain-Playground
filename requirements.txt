@@ -14,3 +14,9 @@ sentence-transformers
 langchain_huggingface
 faiss-cpu
 streamlit
+langchain_groq
+langchain_core
+fastapi
+langserve
+
+uvicorn
