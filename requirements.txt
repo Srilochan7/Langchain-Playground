@@ -18,5 +18,12 @@ langchain_groq
 langchain_core
 fastapi
 langserve
-
+langchain_community
 uvicorn
+pymupdf
+langchain_groq
+pytube
+numexpr
+langchain
+chromadb
+groq
