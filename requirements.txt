@@ -27,3 +27,6 @@ numexpr
 langchain
 chromadb
 groq
+chromadb
+tiktoken
+pydf
